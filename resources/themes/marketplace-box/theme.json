@@ -1,0 +1,13 @@
+{
+  "type": "frontend",
+  "name": "corals-marketplace-box",
+  "caption": "Corals Marketplace BOX",
+  "extends": null,
+  "assetPath": "assets\/themes\/marketplace-box",
+  "version": "1.3.7",
+  "css": [
+  ],
+  "js": [
+  ],
+  "platform": "Marketplace"
+}
